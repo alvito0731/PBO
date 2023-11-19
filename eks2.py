@@ -1,5 +1,5 @@
 import random
-#coba coba
+#latihan buat presen
 Xr = random.random()
 epsilon = 0.001
 max_iter = 200
